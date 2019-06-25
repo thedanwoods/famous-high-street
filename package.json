@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "famous-pie-shop": "^2.0.0"
+    "famous-pie-shop": "2.0.0"
   }
 }
