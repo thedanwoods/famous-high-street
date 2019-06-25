@@ -1,0 +1,14 @@
+{
+  "name": "famous-high-street",
+  "version": "1.0.0",
+  "description": "Experimental high street to test npm behaviour",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "famous-pie-shop": "^2.0.0"
+  }
+}
